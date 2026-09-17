@@ -138,14 +138,3 @@ Animação da cobra percorrendo seus commits no GitHub:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datavitorsilva)
 
 </div>
-
----
-
-<div align="center">
-
-🟩 🟩 🟩
-&emsp;&ensp; 🟩 🟩
-🟩 🟩 🟩 🟩
-&emsp;&emsp;&emsp; 🟩 🟩 🐍
-
-</div>
