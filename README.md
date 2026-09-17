@@ -73,17 +73,29 @@ Tenho interesse em transformar dados e requisitos em soluções organizadas, fun
 
 ## 📌 Habilidades
 
-- 🐍 Python para Dados e Backend
-- 🗄️ SQL e Modelagem de Banco de Dados
-- 📊 Power BI e Análise de Dados
-- 📊 Power Query e Excel Avançado
-- ⚙️ APIs REST
-- 🐳 Docker
-- ☕ Java e Spring Boot
-- 🏗️ Fundamentos de Engenharia de Dados
-- 🔄 Git e GitHub
-- ⚡ PySpark
-- ☁️ Databricks
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> Python para Dados e Backend
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"> SQL e Modelagem de Banco de Dados
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> Power BI e Análise de Dados
+
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> Power Query e Excel Avançado
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> APIs REST
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> Docker
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> Java e Spring Boot
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> Git e GitHub
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"> PySpark
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"> Databricks
+
+</p>
 
 ---
 
