@@ -95,11 +95,11 @@ API REST desenvolvida para gerenciamento e análise de informações de funcion�
 
 ---
 
-### 🐍 GitHub Snake
+### 🐍 Snake Comendo Commits
 
-Animação de contribuições gerada automaticamente via GitHub Actions.
+Animação da cobra percorrendo seus commits no GitHub:
 
-<img src="./dist/github-contribution-grid-snake.svg" width="600" alt="GitHub Snake">
+<img src="./assets/snake-eating-commits.gif" width="600" alt="Snake eating commits">
 
 ---
 
@@ -118,7 +118,7 @@ Animação de contribuições gerada automaticamente via GitHub Actions.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datavitorsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitomsantos/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datavitorsilva)
 
 </div>
