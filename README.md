@@ -53,6 +53,7 @@ Tenho interesse em transformar dados e requisitos em soluções organizadas, fun
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&label=Power+Query">
 
 </p>
 
@@ -75,6 +76,7 @@ Tenho interesse em transformar dados e requisitos em soluções organizadas, fun
 - 🐍 Python para Dados e Backend
 - 🗄️ SQL e Modelagem de Banco de Dados
 - 📊 Power BI e Análise de Dados
+- 📊 Power Query e Excel Avançado
 - ⚙️ APIs REST
 - 🐳 Docker
 - ☕ Java e Spring Boot
