@@ -111,8 +111,6 @@ API REST desenvolvida para gerenciamento e análise de informações de funcion�
 
 ### 🐍 Snake
 
-Animação da cobra percorrendo seus commits no GitHub:
-
 <img src="./assets/snake-eating-commits.gif" width="600" alt="Snake eating commits">
 
 ---
