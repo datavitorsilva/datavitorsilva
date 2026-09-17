@@ -107,8 +107,10 @@ Animação da cobra percorrendo seus commits no GitHub:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=datavitorsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datavitorsilva&layout=compact&theme=radical">
+<img src="https://img.shields.io/badge/Repos-6-3776AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Commits-8-3776AB?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Followers-7-3776AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Following-7-3776AB?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
