@@ -111,9 +111,21 @@ API REST desenvolvida para gerenciamento e análise de informações de funcion�
 
 ### 🐍 Snake Comendo Commits
 
-Animação da cobra percorrendo seus commits no GitHub:
+<div align="center">
 
-<img src="./assets/snake-eating-commits.gif" width="600" alt="Snake eating commits">
+<img src="https://img.shields.io/badge/Animação-GIF-101010?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pillow-FFF?style=for-the-badge&logo=python&logoColor=black">
+
+<br><br>
+
+<img src="./assets/snake-eating-commits.gif" width="650" alt="Snake eating commits">
+
+<br>
+
+*Animação gerada automaticamente com Python e Pillow*
+
+</div>
 
 ---
 
